@@ -1,0 +1,15 @@
+C:\Projects\Pets\SiteMonitoring\SiteMonitoring\SiteMonitoring.Core\bin\Debug\net5.0\SiteMonitoring.Core.deps.json
+C:\Projects\Pets\SiteMonitoring\SiteMonitoring\SiteMonitoring.Core\bin\Debug\net5.0\SiteMonitoring.Core.dll
+C:\Projects\Pets\SiteMonitoring\SiteMonitoring\SiteMonitoring.Core\bin\Debug\net5.0\ref\SiteMonitoring.Core.dll
+C:\Projects\Pets\SiteMonitoring\SiteMonitoring\SiteMonitoring.Core\bin\Debug\net5.0\SiteMonitoring.Core.pdb
+C:\Projects\Pets\SiteMonitoring\SiteMonitoring\SiteMonitoring.Core\obj\Debug\net5.0\SiteMonitoring.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Pets\SiteMonitoring\SiteMonitoring\SiteMonitoring.Core\obj\Debug\net5.0\SiteMonitoring.Core.AssemblyInfoInputs.cache
+C:\Projects\Pets\SiteMonitoring\SiteMonitoring\SiteMonitoring.Core\obj\Debug\net5.0\SiteMonitoring.Core.AssemblyInfo.cs
+C:\Projects\Pets\SiteMonitoring\SiteMonitoring\SiteMonitoring.Core\obj\Debug\net5.0\SiteMonitoring.Core.csproj.CoreCompileInputs.cache
+C:\Projects\Pets\SiteMonitoring\SiteMonitoring\SiteMonitoring.Core\obj\Debug\net5.0\SiteMonitoring.Core.dll
+C:\Projects\Pets\SiteMonitoring\SiteMonitoring\SiteMonitoring.Core\obj\Debug\net5.0\ref\SiteMonitoring.Core.dll
+C:\Projects\Pets\SiteMonitoring\SiteMonitoring\SiteMonitoring.Core\obj\Debug\net5.0\SiteMonitoring.Core.pdb
+C:\Projects\Pets\SiteMonitoring\SiteMonitoring\SiteMonitoring.Core\bin\Debug\net5.0\SiteMonitoring.Core.runtimeconfig.json
+C:\Projects\Pets\SiteMonitoring\SiteMonitoring\SiteMonitoring.Core\bin\Debug\net5.0\SiteMonitoring.Core.runtimeconfig.dev.json
+C:\Projects\Pets\SiteMonitoring\SiteMonitoring\SiteMonitoring.Core\obj\Debug\net5.0\SiteMonitoring.Core.genruntimeconfig.cache
+C:\Projects\Pets\SiteMonitoring\SiteMonitoring\SiteMonitoring.Core\obj\Debug\net5.0\SiteMonitoring.Core.csprojAssemblyReference.cache
